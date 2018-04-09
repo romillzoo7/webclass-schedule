@@ -1,0 +1,74 @@
+<Table>
+
+<tr>
+<th scope='col'> Weekday</th>
+
+<th scope="col">Class Name</th>
+
+<th scope="col">CRN</th>
+
+<th scope="col">Credits</th>
+
+<th scope="col"> Teacher </th>
+
+</tr>
+
+<tr>
+
+<th scrope="row"> Mon-Wed</th>
+
+<td colspan="2"> InfoSec</td> <td>15720</td> <td> 3</td> <td> Dr. Goel</td>
+
+</tr>
+
+<tr>
+
+<th scrope="row"> Mon-Wed</th>
+
+<td colspan="2"> ManEcon </td><td>11933</td><td>3<td> Dr. kelly</td>
+
+</tr>
+
+<tr>
+
+<th scrope="row"> Mon-Wed</th>
+
+<td colspan="1"> </td>
+
+<td>Consulting</td> <td> 14005</td><td> 3</td><td>Dr.Buskey </td>
+
+</tr>
+
+<tr>
+
+<th scrope="row"> Mon-Wed</th>
+
+<td colspan= "1"></td> <td> Web Auth</td><td> 16537</td><td> 3</td><td> DR.Henly</td>
+
+</tr>
+
+<tr>
+
+<th scrope="row"> Tues-Thurs</th>
+
+<td colspan="1"> </td><td> POM</td><td> 12168</td><td> 3</td> <td> Dr. Quasem </td>
+
+</tr>
+
+<tr>
+
+<th scrope="row"> Tues-Thurs</th>
+
+<td colspan="1"></td> <td> Proj Man</td> <td> 13967</td> <td> 3</td><td> Dr. Argawal </td> </tr>
+
+<tr>
+
+<th scrope="row"> Tues-Thurs</th>
+
+<td colspan="1"> </td> <td> Seminar </td> <td> 19344</td> <td> 3</td><td> Dr.Goel </td>
+
+</tr>
+
+ 
+
+</Table>
